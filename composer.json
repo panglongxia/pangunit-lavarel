@@ -1,0 +1,17 @@
+{
+    "name": "panglongxia\/pangunit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "朱大蛋",
+            "email": "1294662090@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Panglongxia\\PangunitLaravel\\": "src"
+        }
+    }
+}
